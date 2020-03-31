@@ -11,3 +11,5 @@ Another change to test Remote3
 Someone else's Change to remote 3
 
 Someone else made another change to remote3 -- test of pull
+
+A change to test GitHub
